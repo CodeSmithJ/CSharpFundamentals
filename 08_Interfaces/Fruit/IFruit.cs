@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace _08_Interfaces.Fruit
 {
     // Naming convention for interfaces: I______
-    interface IFruit
+    public interface IFruit
     {
         string Name { get; }
 
